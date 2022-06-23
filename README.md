@@ -1,4 +1,8 @@
 ### Hi I am Kundan 👋
+- 🔭 I’m currently working on React JS
+- 🌱 I’m currently learning Data Structures and Algorithm
+- 📫 How to reach me: kundansmali2605@gmail.com
+- ⚡ Fun fact: #java_is_simple:)
 
 <!--
 **kundan181/kundan181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
